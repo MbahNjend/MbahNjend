@@ -7,11 +7,11 @@
 
   <div align="center">
   🌱 I’m currently learning **Figma,HTML,CSS,JS**
-
+<br>
  💬 Ask me about **HTML and Designer**
-
+<br>
  📫 How to reach me **rafarajendran@gmail.com**
-
+<br>
  ⚡ Fun fact **I think I am Introvert**
   </div>
 
