@@ -6,14 +6,21 @@
 <p align="left"> <a href="https://twitter.com/mbahnjend" target="blank"><img src="https://img.shields.io/twitter/follow/mbahnjend?logo=twitter&style=for-the-badge" alt="mbahnjend" /></a> </p>
 
 <div align="center">
-🌱 I’m currently learning **Figma,HTML,CSS,JS**
-    
-💬 Ask me about **HTML and Designer**
- 
-📫 How to reach me **rafarajendran@gmail.com**
- 
-⚡ Fun fact **I think I am Introvert**
- 
+  
+⚙️ We are working on a project for a competition [Nusantara Developer](https://zeeta.my.id)
+  
+  🧑‍🤝‍🧑 We are Testing Website Testing to a Close Friend's Relatives [Web Profile](https://amrullaah.netlify.app)
+  
+  ⚙️I've Learned Vue JS Framework **Vue JS**
+  
+  ⚙️I've Learned React Framework **React**
+  
+  Send Message for Me **ebdtv4@gmail.com**
+  
+  Zeeta Web Profile **https://zeeta.my.id**
+  
+  ⚡Happy or Not? **I think, im Happy**
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
