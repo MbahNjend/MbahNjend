@@ -6,21 +6,15 @@
 <p align="left"> <a href="https://twitter.com/mbahnjend" target="blank"><img src="https://img.shields.io/twitter/follow/mbahnjend?logo=twitter&style=for-the-badge" alt="mbahnjend" /></a> </p>
 
 <div align="center">
-  🌱 I’m currently learning **Figma,HTML,CSS,JS**
+🌱 I’m currently learning **Figma,HTML,CSS,JS**
     
-<br>
-
- 💬 Ask me about **HTML and Designer**
+💬 Ask me about **HTML and Designer**
  
-<br>
-
- 📫 How to reach me **rafarajendran@gmail.com**
+📫 How to reach me **rafarajendran@gmail.com**
  
-<br>
-
- ⚡ Fun fact **I think I am Introvert**
+⚡ Fun fact **I think I am Introvert**
  
-  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
