@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbahnjend" target="blank"><img src="https://img.shields.io/twitter/follow/mbahnjend?logo=twitter&style=for-the-badge" alt="mbahnjend" /></a> </p>
 
-  <div align="center">
+<div align="center">
   🌱 I’m currently learning **Figma,HTML,CSS,JS**
     
 <br>
