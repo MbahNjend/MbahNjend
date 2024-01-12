@@ -52,6 +52,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbahnjend&show_icons=true&locale=en&layout=compact" alt="mbahnjend" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbahnjend&show_icons=true&locale=en" alt="mbahnjend" /></p>
+ <div align="center">
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbahnjend&show_icons=true&locale=en" alt="mbahnjend" /></p>
+    </div>
 
 
