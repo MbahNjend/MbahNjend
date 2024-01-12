@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mbahnjend" target="blank"><img src="https://img.shields.io/twitter/follow/mbahnjend?logo=twitter&style=for-the-badge" alt="mbahnjend" /></a> </p>
 
-- 🌱 I’m currently learning **Figma,HTML,CSS,JS**
+  <div align="center">
+    - 🌱 I’m currently learning **Figma,HTML,CSS,JS**
 
 - 💬 Ask me about **HTML and Designer**
 
 - 📫 How to reach me **rafarajendran@gmail.com**
 
 - ⚡ Fun fact **I think I am Introvert**
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
