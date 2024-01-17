@@ -17,9 +17,9 @@
   
   ⚙️I've Learned React Framework **React**
   
-  Send Message for Me **ebdtv4@gmail.com**
+  Send Message for Me **rafarajendran@gmail.com**
   
-  Zeeta Web Profile **https://zeeta.my.id**
+
   
   ⚡Happy or Not? **I think, im Happy**
   
