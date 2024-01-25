@@ -51,11 +51,7 @@
 <br>
 
 <div align="center">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbahnjend&show_icons=true&locale=en&layout=compact" alt="mbahnjend" /></p>
-    </div>
-
- <div align="center">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbahnjend&show_icons=true&locale=en" alt="mbahnjend" /></p>
+      | <a href="https://github.com/MbahNjend"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MbahNjend&count_private=true&show_icons=true&theme=onedark&hide=issues" alt="rafa github stats" /></a> | <a href="https://github.com/MbahNjend"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MbahNjend&layout=compact&theme=onedark" /></a> |
     </div>
 
 
