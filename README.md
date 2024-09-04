@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MbahNjend</h1>
-<h3 align="center">A Passionate Frontend Developer and Designer from Indonesia</h3>
+<h3 align="center">A Passionate UI/UX Designer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mbahnjend&label=Profile%20views&color=0e75b6&style=flat" alt="mbahnjend" /> </p>
 
@@ -9,13 +9,12 @@
 
 <br>
   
-⚙️ We are working on a project for a competition [Nusantara Developer](https://zeeta.my.id)
+⚙️ We are working on a project for a Learning [Nusantara Developer](https://zeeta.my.id)
   
   🧑‍🤝‍🧑 We are Testing Website Testing to a Close Friend's Relatives [Web Profile](https://amrullaah.netlify.app)
   
-  ⚙️I've Learned Vue JS Framework **Vue JS**
+  ⚙️I've Learned UI/UX Framework **Figma**
   
-  ⚙️I've Learned React Framework **React**
   
   Send Message for Me **rafarajendran@gmail.com**
   
