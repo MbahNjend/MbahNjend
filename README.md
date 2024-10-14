@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/BroNjend">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31berngd3sb2kuvzkupigbuplzca&width={500}"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31berngd3sb2kuvzkupigbuplzca&unique={true|1|on|yes}"  />
   </a>
 </div>
 
